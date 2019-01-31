@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_idea_type" table="x_302891_innovate_innovate">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_302891_innovate_test">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>ignore_filter_on_new=true</attributes>
         <audit>false</audit>
-        <calculation/>
-        <choice>1</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Idea Type</column_label>
+        <column_label>Number</column_label>
         <comments/>
         <create_roles/>
-        <default_value>process improvement</default_value>
+        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -23,15 +28,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_idea_type</element>
+        <element>number</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_302891_innovate_innovate</name>
+        <name>x_302891_innovate_test</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -48,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-23 06:22:52</sys_created_on>
-        <sys_id>8a6727cedb1323006ef51780399619ed</sys_id>
+        <sys_created_on>2019-01-31 06:01:13</sys_created_on>
+        <sys_id>01e7ab02db5323006ef5178039961949</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Idea Type</sys_name>
+        <sys_name>Number</sys_name>
         <sys_package display_value="Innovate" source="x_302891_innovate">4eeb5ea3db0323006ef51780399619fc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Innovate">4eeb5ea3db0323006ef51780399619fc</sys_scope>
-        <sys_update_name>sys_dictionary_x_302891_innovate_innovate_u_idea_type</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-01-31 05:59:06</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_302891_innovate_test_number</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-31 06:01:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

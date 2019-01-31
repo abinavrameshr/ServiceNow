@@ -5,7 +5,7 @@
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-23 06:12:58</sys_created_on>
-        <sys_id>d7dd922bdb0323006ef51780399619aa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>826727cedb1323006ef51780399619dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_302891_innovate_innovate</sys_name>
         <sys_package display_value="Innovate" source="x_302891_innovate">4eeb5ea3db0323006ef51780399619fc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Innovate">4eeb5ea3db0323006ef51780399619fc</sys_scope>
         <sys_update_name>sys_dictionary_x_302891_innovate_innovate_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-23 06:12:58</sys_updated_on>
+        <sys_updated_on>2019-01-31 06:06:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

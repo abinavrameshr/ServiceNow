@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="New Section" section_id="5539e7c2db5323006ef51780399619dd" sys_domain="global" table="x_302891_innovate_innovate" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-31 06:06:58</sys_created_on>
+            <sys_id>51392bc2db5323006ef5178039961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_302891_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5539e7c2db5323006ef51780399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-31 06:06:58</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-31 06:06:58</sys_created_on>
+            <sys_id>15392bc2db5323006ef5178039961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_302891_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5539e7c2db5323006ef51780399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-31 06:06:58</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-31 06:06:58</sys_created_on>
+            <sys_id>d5392bc2db5323006ef5178039961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_302891_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5539e7c2db5323006ef51780399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-31 06:06:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-31 06:06:58</sys_created_on>
+            <sys_id>59392bc2db5323006ef5178039961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_302891_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5539e7c2db5323006ef51780399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-31 06:06:58</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_302891_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-31 06:06:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5539e7c2db5323006ef51780399619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_302891_innovate">4eeb5ea3db0323006ef51780399619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">4eeb5ea3db0323006ef51780399619fc</sys_scope>
+            <sys_update_name>sys_ui_section_5539e7c2db5323006ef51780399619dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-31 06:06:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
